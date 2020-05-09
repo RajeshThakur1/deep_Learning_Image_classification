@@ -1,0 +1,10 @@
+1) Click on the link below and select OS 
+https://www.anaconda.com/download/ 
+
+2) Download Python 3.7 version (around 500 mb) 
+
+3) Once installed, launch the Anaconda Navigator (search by clicking windows button) 
+
+4) Run the required Application (Jupyter, Spyder etc) 
+
+Make sure you always update the entire Anaconda distribution as it takes care of updating all the modules and dependencies inside. 
